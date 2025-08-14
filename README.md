@@ -18,7 +18,7 @@ Permite adicionar nomes, visualizar a lista de participantes e realizar o sortei
 
 ## 🖼️ Demonstração em GIF
 
-![Demonstração do Amigo Secreto](resources/demo-amigo-secreto.gif)
+![Demonstração do Amigo Secreto](resources/demo-amigo-secreto.gif.gif)
 
 ---
 
